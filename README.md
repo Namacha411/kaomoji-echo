@@ -50,8 +50,12 @@ speech_bubble_left = "< "
 
 ## インストール方法
 
-`cargo install --git https://github.com/Namacha411/kaomoji-echo`
+```sh
+cargo install --git https://github.com/Namacha411/kaomoji-echo
+```
 
 ## アンインストール方法
 
-`cargo uninstall kaomoji-echo`
+```sh
+cargo uninstall kaomoji-echo
+```
