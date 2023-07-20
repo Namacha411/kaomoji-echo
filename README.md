@@ -2,7 +2,26 @@
 
 ![スクリーンショット](./images/スクリーンショット.png)
 
-`echo`コマンドに顔文字をつけるネタコマンドです
+`echo`コマンドに顔文字をつけるネタコマンドです。
+エイリアスを設定することでechoがかわいくなります。
+
+## 使用方法
+
+```sh
+kaomoji-echo --help
+Usage: kaomoji-echo [OPTIONS] [STRINGS]...
+
+Arguments:
+  [STRINGS]...
+
+Options:
+  -n, --newline
+  -e, --escape
+  -h, --help     Print help
+  -V, --version  Print version
+```
+
+## 設定
 
 `config`ファイルである`kaomoji-config.toml`は以下のディレクトリに保存されます
 
