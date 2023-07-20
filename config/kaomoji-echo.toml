@@ -1,0 +1,12 @@
+default = "neko"
+
+[[presets]]
+name = "neko"
+kaomoji = "ฅ(=･ω･=)ฅ "
+speech_bubble_left = "｡oO("
+speech_bubble_right = ")"
+
+[[presets]]
+name = "happy"
+kaomoji = "( ＾ω＾) "
+speech_bubble_left = "< "
